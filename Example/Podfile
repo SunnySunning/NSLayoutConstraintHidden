@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSLayoutConstraintHidden_Example' do
+  pod 'NSLayoutConstraintHidden', :path => '../'
+
+  target 'NSLayoutConstraintHidden_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
