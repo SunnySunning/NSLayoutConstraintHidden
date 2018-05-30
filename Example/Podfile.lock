@@ -1,0 +1,16 @@
+PODS:
+  - NSLayoutConstraintHidden (0.1.0)
+
+DEPENDENCIES:
+  - NSLayoutConstraintHidden (from `../`)
+
+EXTERNAL SOURCES:
+  NSLayoutConstraintHidden:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSLayoutConstraintHidden: 6bf93114019a8f413e00a0db6521a0323857761a
+
+PODFILE CHECKSUM: cd38053c0bd0aff4e9977cab173fbe10f72d4bde
+
+COCOAPODS: 1.5.3

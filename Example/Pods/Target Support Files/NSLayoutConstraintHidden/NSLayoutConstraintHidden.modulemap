@@ -1,0 +1,6 @@
+framework module NSLayoutConstraintHidden {
+  umbrella header "NSLayoutConstraintHidden-umbrella.h"
+
+  export *
+  module * { export * }
+}

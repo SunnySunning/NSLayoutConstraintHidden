@@ -1,0 +1,6 @@
+framework module Pods_NSLayoutConstraintHidden_Example {
+  umbrella header "Pods-NSLayoutConstraintHidden_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
